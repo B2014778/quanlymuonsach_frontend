@@ -40,7 +40,7 @@
                   </div>
                   <div class="p-4 text-black" style="background-color: #f8f9fa">
                     <div class="d-flex justify-content-end text-center py-1">
-                      Đọc giả
+                      Độc giả
                     </div>
                   </div>
                   <div class="card-body text-black">
@@ -65,7 +65,7 @@
                               <p class="text-muted mb-0">
                                 {{ data.DienThoai }}
                               </p>
-                            </div>
+</div>
                           </div>
                           <hr />
                           <div class="row">
@@ -90,8 +90,8 @@
   </template>
   
   <script setup>
-  import { ref } from "vue";
   import axios from "axios";
+import { ref } from "vue";
   const data = ref({});
   const ID_DG = localStorage.getItem("ID_DG");
   const fetchData = () => {
@@ -100,6 +100,7 @@
       .then((res) => {
         console.log("Data aaaaaaaaaa", res.data);
         data.value = res.data;
+        console.log(data.value);
       })
       .catch((err) => console.log(err));
   };

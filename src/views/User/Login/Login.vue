@@ -7,7 +7,7 @@
             <div class="card loginForm">
               <div class="row g-0" style="min-height: 500px">
                 <div class="col-md-6 col-lg-6 d-flex align-items-center">
-                  <div class="card-body p-4 p-lg-5 text-black">
+                  <div class="card-body p-4 p-lg-5 text-white">
                     <form @submit.prevent="login">
                       <div class="d-flex align-items-center mb-2">
                         <div class="titleWeb">Sign In</div>
@@ -61,6 +61,9 @@
                       <div class="pt-1 mb-4">
                         <button class="btnPay">SIGN IN</button>
                       </div>
+                        <router-link to="/register" class="button btn-register">
+                          <span>SIGN UP</span>
+                        </router-link>
                     </form>
                   </div>
                 </div>
@@ -71,9 +74,9 @@
                       Register with your personal details to use all of site
                       features.
                     </p>
-                    <router-link to="/register" class="button btn-register">
+                    <!-- <router-link to="/register" class="button btn-register">
                       <span>SIGN UP</span>
-                    </router-link>
+                    </router-link> -->
                   </div>
                 </div>
               </div>
