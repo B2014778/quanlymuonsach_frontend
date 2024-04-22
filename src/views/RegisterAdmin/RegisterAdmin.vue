@@ -17,7 +17,7 @@
                           <div class="logo">
                             <img src="../../assets/logo.png" alt="" />
                             <span class="titleWeb"
-                              >BOOKS<span class="text-dark">FUTURE</span></span
+                              >BOOKS<span class="text-dark">HORIZON</span></span
                             >
                           </div>
                         </div>
@@ -133,10 +133,10 @@
                         <div class="pt-1 mb-4">
                           <button class="btnPay" type="submit">Register</button>
                         </div>
-                        <p class="mb-1 pb-lg-2" style="color: #393f81">
+                        <p class="mb-1 pb-lg-2" style="color: #E0FFFF">
                           Bạn đã có tài khoản?
                           <router-link to="/admin/login" class="button">
-                            <span style="color: #393f81">Login here</span>
+                            <span style="color: #E0FFFF">Login here</span>
                           </router-link>
                         </p>
                       </form>
@@ -144,7 +144,7 @@
                   </div>
                   <div class="col-md-6 col-lg-6 d-none d-md-block m-auto">
                     <img
-                      src="https://i.pinimg.com/564x/e1/2b/5b/e12b5b0bb42756d3dcc499f498a1fa1f.jpg"
+                      src="https://i.pinimg.com/564x/8f/d0/e0/8fd0e054c642f78c68543b8cc8ddd2ec.jpg"
                       alt="login form"
                       class="imageLogin"
                     />

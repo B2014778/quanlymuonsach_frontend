@@ -1,7 +1,6 @@
 <template>
     <div class="containPage">
       <div class="titlePage">
-        <!-- <h2>Coffee Menu</h2> -->
         <div class="groupSearch">
           <input
             class="inputSearch"

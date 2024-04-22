@@ -13,7 +13,7 @@
                           <div class="logo">
                             <img src="../../assets/coffee-cup.png" alt="" />
                             <span class="titleWeb"
-                              >Book<span class="text-dark">Future</span></span
+                              >Book<span class="text-white">Horizon</span></span
                             >
                           </div>
                         </div>
@@ -67,11 +67,11 @@
                           <button class="btnPay">Login</button>
                         </div>
   
-                        <a class="small text-muted" href="#!">Quên mật khẩu</a>
-                        <p class="mb-1 pb-lg-2" style="color: #393f81">
+                        <!-- <a class="small text-muted" href="#!">Quên mật khẩu</a> -->
+                        <p class="mb-1 pb-lg-2" style="color: #FFFFFF">
                           Đăng ký tài khoản 
                           <router-link to="/admin/register" class="button">
-                            <strong style="color: #393f81">Tại đây</strong>
+                            <strong style="color: #FFFFFF">Tại đây</strong>
                           </router-link>
                         </p>
                       </form>
@@ -79,7 +79,7 @@
                   </div>
                   <div class="col-md-6 col-lg-6 d-none d-md-block m-auto">
                     <img
-                      src="https://i.pinimg.com/564x/e1/2b/5b/e12b5b0bb42756d3dcc499f498a1fa1f.jpg"
+                      src="https://i.pinimg.com/564x/8f/d0/e0/8fd0e054c642f78c68543b8cc8ddd2ec.jpg"
                       alt="login form"
                       class="imageLogin"
                     />

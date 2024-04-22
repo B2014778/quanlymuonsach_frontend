@@ -5,7 +5,7 @@
   .btnAdd {
     padding: 8px 14px;
     border-radius: 20px;
-    background-color: #07f4c4;
+    background-image: linear-gradient(to right, #08C8F6, #2330a5);
     color: #fff;
     box-shadow: 0px 5px 5px rgb(195, 183, 183);
     &:hover {
@@ -371,8 +371,7 @@
     }
   
     .iconSearch {
-      background-color: #07f4c4;
-      color: var(--light);
+      background-color: #7cb2ef;
       padding: 10px 23px;
       border-radius: 20px;
       &:hover {
@@ -381,3 +380,4 @@
       }
     }
   }
+  

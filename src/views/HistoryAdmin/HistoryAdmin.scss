@@ -11,7 +11,7 @@
         // background-color: #cdc3c373;
       }
       .btn-filter {
-        background-color: #07f4c4;
+        background-color: #7cb2ef;
         color: var(--light);
         padding: 8px 18px;
         border-radius: 8px;
@@ -34,7 +34,7 @@
       }
   
       .iconSearch {
-        background-color: #07f4c4;
+        background-color: #7cb2ef;
         color: var(--light);
         padding: 10px 23px;
         border-radius: 20px;
@@ -47,7 +47,7 @@
     .contentPage {
       padding: 0px 20px 20px 20px;
       border-radius: 10px;
-      background-color: #07f4c4;
+      background-image: linear-gradient(to right, #08C8F6, #2330a5);
     }
   
     .timeOrder {
@@ -72,7 +72,7 @@
     .statusOrderSuccess {
       border-radius: 5px;
       color: #ffffff;
-      background-color: rgba(63, 190, 63, 0.61);
+      background-image: linear-gradient(to right, #05af4c, #2bcc0e);
       width: 100px;
       height: 35px;
       margin: auto;

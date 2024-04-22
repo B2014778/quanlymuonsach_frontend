@@ -2,7 +2,7 @@
   <aside :class="`${is_expanded ? 'is-expanded' : ''}`">
     <div class="logo">
       <img :src="logoURL" alt="Vue" />
-      <span class="titleWeb">F<span class="text-dark">BOOKS</span></span>
+      <span class="titleWeb">H<span class="text-dark">Books</span></span>
     </div>
 
     <div class="menu-toggle-wrap">
@@ -67,7 +67,7 @@
 
 <script setup>
 import { ref } from "vue";
-import logoURL from "../../assets/logoBook.png";
+import logoURL from "../../assets/logo2.jpg";
 import { Button } from "ant-design-vue";
 import { useRouter } from "vue-router";
 

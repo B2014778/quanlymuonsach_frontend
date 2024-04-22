@@ -8,9 +8,9 @@
               <div class="row g-0">
                 <div class="col-md-6 col-lg-6">
                   <div class="wrapper">
-                    <div class="title">Welcome Back!</div>
+                    <div class="title">Chào bạn!</div>
                     <p>
-                      Enter your personal details to use all of site features.
+                      Hãy điền đầy đủ thông tin ở phía bên phải để có thể sử dụng các chức năng của trang web.
                     </p>
                     <router-link to="/login" class="button btn-login">
                       <span>SIGN IN</span>

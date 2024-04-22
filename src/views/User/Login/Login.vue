@@ -55,28 +55,27 @@
                           </div>
                         </div>
                       </div>
-                      <a class="small text-muted text-center d-block" href="#!"
+                      <!-- <a class="small text-muted text-center d-block" href="#!"
                         >Forgot Your Password?</a
-                      >
+                      > -->
                       <div class="pt-1 mb-4">
                         <button class="btnPay">SIGN IN</button>
                       </div>
-                        <router-link to="/register" class="button btn-register">
+                        <!-- <router-link to="/register" class="button btn-register">
                           <span>SIGN UP</span>
-                        </router-link>
+                        </router-link> -->
                     </form>
                   </div>
                 </div>
                 <div class="col-md-6 col-lg-6">
                   <div class="wrapper">
-                    <div class="title">Hello, Friend!</div>
+                    <div class="title">Chào bạn!</div>
                     <p>
-                      Register with your personal details to use all of site
-                      features.
+                      Đăng ký với thông tin cá nhân của bạn để sử dụng tất cả các tính năng của trang web.
                     </p>
-                    <!-- <router-link to="/register" class="button btn-register">
+                    <router-link to="/register" class="button btn-register">
                       <span>SIGN UP</span>
-                    </router-link> -->
+                    </router-link>
                   </div>
                 </div>
               </div>

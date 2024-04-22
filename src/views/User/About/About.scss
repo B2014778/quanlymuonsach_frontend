@@ -48,7 +48,7 @@
         right: 2%;
         bottom: 4%;
         .btnAddToCart {
-          background: #ba9d35;
+          background-image: linear-gradient(to right, #08C8F6, #2330a5);
           padding: 5px 15px;
           border-radius: 20px;
           margin-bottom: 5px;
@@ -165,8 +165,7 @@
     }
   
     .iconSearch {
-      background-color: var(--green);
-      color: var(--light);
+      background-color: #7cb2ef;
       padding: 10px 23px;
       border-radius: 20px;
       &:hover {

@@ -3,7 +3,7 @@
   }
   
   .loginForm {
-    background-color: #1e1e1e;
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20230516/pngtree-an-old-book-shelf-is-filled-with-books-image_2563578.jpg);
     margin-top: 40px;
     border: none;
     box-shadow: 0px 20px 20px rgba(0, 0, 0, 0.69);
@@ -106,7 +106,7 @@
   }
   
   .btnPay {
-    background-image: linear-gradient(to right, #30b499, #07f4c4);
+    background-image: linear-gradient(to right, #3d227d, #00b09b);
     margin: 10px 0px;
     padding: 8px;
     text-align: center;
@@ -140,13 +140,13 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(to left, #110135, #00b09b);
+    // background: linear-gradient(to left, #3a0e9f, #00b09b);
     border-radius: 0%  80% 0% 80%;
     div{
         transition: opacity 0.3s ease-in-out;
         font-size: 34px;
         transform: translateX(-100px);
-        color: #00ffcc;
+        color: #fafafa;
         font-weight: bold;
     }
     p{
@@ -154,7 +154,7 @@
         color: #e6e6e6;
     }
     .btn-register{
-        background-image: linear-gradient(to right, #d4db15, #07f4c4);
+        background-image: linear-gradient(to right, #3d227d, #00b09b);
         margin: 10px 0px;
         padding: 8px;
         text-align: center;
